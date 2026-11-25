@@ -2,7 +2,6 @@
 Dongze Lian Group at PRLab, Nanjing University
 
 ## 🔗 Links
-- Group Homepage: https://dongzelian.com/
 - HuggingFace Organization: (To be added)
 
 ## Repositories
